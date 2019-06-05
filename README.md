@@ -12,7 +12,7 @@ Includes cfg files for rviz, world map files and launch scripts.
 
 ### How to build project
 
-Clone to src folder of a catkin workspace and build with catkin_build.
+Copy my_robot directory to a working catkin workspace src directory and build with catkin_build.
 
 
 ### How to run project
